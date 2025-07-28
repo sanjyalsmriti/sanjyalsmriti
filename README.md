@@ -14,7 +14,7 @@
 - 💼 Working as a **Junior WordPress Developer**  
 - 🔍 Exploring REST APIs, GitHub, and Backend Development  
 - 💬 Ask me about **JavaScript, WordPress, or Web Projects**  
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **sanjyalsmriti@gmail.com**
 
 ---
 
